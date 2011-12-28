@@ -1,0 +1,246 @@
+---
+- :name: Dinner
+  :subcategories:
+  - :name: Chefs Tasting
+    :items:
+    - :name: 4-Course Degustation Menu
+      :prices:
+      - 65.0
+    - :name: 6-Course Degustation Menu
+      :prices:
+      - 85.0
+    - :name: Grand Tasting Menu
+      :prices:
+      - 115.0
+      :description: sampling of chefs favorite dishes
+    - :description: All Guests At A Table Must Partake In The Tasting Menu. Receive
+        20 % Off Of The Reserve Wine List When You Enjoy Either The 6-Course Degustation
+        Or Grand Tasting Menu.
+  - :name: Raw
+    :items:
+    - :name: Shigoku Oyster, Yuzu Spheres, Shiso Sponge
+      :prices:
+      - 3.0
+    - :name: Hamachi, Blood Orange
+      :prices:
+      - 13.0
+      :description: curry braised daikon, watercress, sunchoke puree, black tobiko
+    - :name: Coriander Crusted Big Eye Tuna
+      :prices:
+      - 14.0
+      :description: pomelo grapefruit, avocado carpaccio, hearts of palm, cilantro
+        pearls
+    - :name: Marinated Snapper
+      :prices:
+      - 14.0
+      :description: crispy coconut crusted tofu, green tea soba noodle, pickled watermelon
+        radish
+    - :name: Raw Tasting
+      :prices:
+      - 18.0
+  - :name: First Course
+    :items:
+    - :name: Angus Beef Carpaccio
+      :prices:
+      - 13.0
+      :description: dried nicoise olives, crispy purple potato, parmesan foam
+    - :name: Wild Mushroom Soup
+      :prices:
+      - 14.0
+      :description: seared pork belly, parmesan crumble, onion marmalade
+    - :name: Seared Sonoma Valley Foie Gras
+      :prices:
+      - 18.0
+      :description: grilled banana, brioche duet, toasted pine nuts, baking spice
+        gastrique
+    - :name: Salsify & Black Truffle Terrine
+      :prices:
+      - 12.0
+      :description: black quinoa, cardamom , soft poached quail egg
+    - :name: Grilled Baby Octopus
+      :prices:
+      - 13.0
+      :description: pei mussels, kumquat & fennel salad, yogurt-horseradish sauce,
+        bbq eel
+    - :name: Crispy Chicken Thigh
+      :prices:
+      - 14.0
+      :description: apple & chestnut risotto, pickled turnip, wild mushroom sauce
+    - :name: Stuffed Squid
+      :prices:
+      - 11.0
+      :description: baby spinach, spicy pineapple, black tapioca
+  - :name: Salads
+    :items:
+    - :name: Roasted Beets
+      :prices:
+      - 10.0
+      :description: housemade yogurt cheese, pancetta, juniper, orange
+    - :name: Baby Arugula
+      :prices:
+      - 11.0
+      :description: grilled anjou pears, laura chenel chevre, pomegranate, balsamic
+        vinaigrette
+    - :name: Peruvian Tabouli
+      :prices:
+      - 9.0
+      :description: pickled mango, watercress, feta cheese, cucumber.
+  - :name: Entrees
+    :items:
+    - :name: Mahi-Mahi
+      :prices:
+      - 29.0
+      :description: braised endive, butternut squash, hedgehog mushrooms, ginger-prune
+        sauce, bone marrow
+    - :name: Maine Diver Scallop
+      :prices:
+      - 31.0
+      :description: korean short ribs, forbidden black rice, cumin dusted lotus root,
+        roasted zucchini puree
+    - :name: Muscovy Duck Breast
+      :prices:
+      - 30.0
+      :description: foie gras raviolo, braised red cabbage, pickled duck tongue, caramelized
+        cauliflower sauce
+    - :name: New Zealand Rack Of Lamb
+      :prices:
+      - 34.0
+      :description: braised quince, ceci puree, carrot & chive slaw, chermoula sauce
+    - :name: Scottish Salmon
+      :prices:
+      - 28.0
+      :description: winter spinach, crayfish brandade, black garlic, crosnes, mussel
+        & saffron emulsion
+    - :name: Fall Vegetable Tart
+      :prices:
+      - 24.0
+      :description: arugula, ricotta, red wine & leek vinaigrette, carrot-cardamom
+        foam
+    - :name: Braised Veal Cheek
+      :prices:
+      - 32.0
+      :description: crispy sweetbreads, moroccan ratatouille, creamy grits, collard
+        green puree
+  - :name: Sides
+    :items:
+    - :name: Wild Mushrooms, Pickled Garlic, Balsamic Vinegar
+      :prices:
+      - 6.0
+    - :name: Winter Root Vegetable, Bourbon Maple Sauce
+      :prices:
+      - 6.0
+    - :name: Mac "N" Cheese, Edamame
+      :prices:
+      - 7.0
+    - :name: Cucumber Salad, Feta, Basil , Pine Nuts
+      :prices:
+      - 7.0
+- :subcategories:
+  - :name: Desserts
+    :items:
+    - :name: Spiced Cake
+      :prices:
+      - 11.0
+      :description: honey crisp apple, vadouvan butter, walnut, yogurt gelato
+    - :name: Flourless Venezuelan Chocolate Cake
+      :prices:
+      - 12.0
+      :description: smoked chocolate gelato, nibs
+    - :name: Pumpkin Clafouti
+      :prices:
+      - 11.0
+      :description: pepita, creme fraiche, cranberry-maple consomme
+    - :name: Chocolate Cashew Cake
+      :prices:
+      - 10.0
+      :description: english toffee, meringue, caramel ice cream
+    - :name: 5 Spice Genoise
+      :prices:
+      - 11.0
+      :description: candied kumquats, chocolate-hazelnut semifreddo
+    - :name: Mexican Vanilla Creme Brulee
+      :prices:
+      - 9.0
+      :description: seasonal fruit
+    - :name: Homemade Ice Cream & Sorbet
+      :prices:
+      - 10.0
+  - :name: Artisanal Cheese $4 Each
+    :items:
+    - :name: B. Menage
+      :prices: []
+      :description: semi-soft, wisconsin
+    - :name: G. Snow White
+      :prices: []
+      :description: cheddar, wisconsin
+    - :name: B. Robiola Langhe*
+      :prices: []
+      :description: soft, italy
+    - :name: B. Cabrales Blue*
+      :prices: []
+      :description: blue vein, spain
+    - :name: S. Pecorino
+      :prices: []
+      :description: semi-firm, italy
+    - :name: C. Morbier
+      :prices: []
+      :description: semi-soft, france
+    - :name: S. Brigante
+      :prices: []
+      :description: semi-soft, italy
+    - :name: C. Keen’s Farmhouse*
+      :prices: []
+      :description: cheddar, england
+    - :name: C. Tomme De Savoie
+      :prices: []
+      :description: semi-firm, france
+    - :description: ! '* Made With Raw Milk. Tea & Coffee Service Available. Dessert
+        Wine & Digestif On Reverse Side.'
+  - :name: All Cocktails $12
+    :items:
+    - :name: Vineyard Sour
+      :prices: []
+      :description: old tom gin, malbec reduction, blackberry syrup, mint
+    - :name: Clean Break
+      :prices: []
+      :description: genever, pimm’s no. 1, cucumber, lemon, orange oil
+    - :name: Long Faced Dove*
+      :prices: []
+      :description: azul blanco tequila, campari, grape fruit, agave, soda *cocktail
+        courtesy of paul mcgee, the whistler
+    - :name: Sumer Solera
+      :prices: []
+      :description: flor de cana rum, noval tawny port, house falernum, sage, eg white
+    - :name: Snapsvisa
+      :prices: []
+      :description: north shore aquavit, cocchi americano aperitivo, ginger, lime
+    - :name: Decline Of Virtue
+      :prices: []
+      :description: bas armagnac, rye whiskey du jour, absinthe, payc haud ’s & house
+        lemon bitters
+    - :name: Smoking Jacket
+      :prices: []
+      :description: white oak smoked evan wiliams bourbon, house grenadine, lime
+    - :name: Old Money
+      :prices: []
+      :description: black maple hil bourbon, aperol , walnut liqueur, angostura bitters,
+        all spice dram
+  - :name: Dealer’s Choice
+    :items:
+    - :name: Gin
+      :prices: []
+      :description: sweet
+    - :name: Vodka
+      :prices: []
+      :description: spicy
+    - :name: Tequila
+      :prices: []
+      :description: bitter
+    - :name: Rum
+      :prices: []
+      :description: sour
+    - :name: Rye Whiskey
+      :prices: []
+      :description: neutral
+  :description: Allow Us To Tailor A Cocktail Specifically For You . Simply Select
+    A Base Spirit And A flavor Pro File From Below And Allow Us To Do The Rest.

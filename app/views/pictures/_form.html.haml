@@ -1,0 +1,23 @@
+-if @picture.errors.any?
+  #error_explanation
+    %h2= "#{pluralize(@picture.errors.count, 'error')} prohibited this picture from being saved:"
+    %ul
+      - @picture.errors.full_messages.each do |msg|
+        %li= msg
+- form_for(@picture, :html => { :multipart => true }) do |f|
+  = f.label :attachment, 'Select a picture:'
+  = f.file_field :attachment
+  %br
+  = f.label :content_description, 'Who/What:'
+  %i (Sara Birton; Chicken Tikka Masala)
+  = f.text_field :content_description, :size => '140'
+  %br
+  = f.label :location_description, 'Where:'
+  %i (Hema's Kitchen)
+  = f.text_field :location_description, :size => '140'
+  %br
+  = f.label :caption
+  %i (Sara licking the chicken tikka masala sauce off the plate...)
+  = f.text_field :caption, :size => '140'
+  %br
+  = f.submit 'Upload file'

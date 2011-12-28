@@ -1,0 +1,18 @@
+!!!
+%html
+  %head
+    %title Menu
+    = stylesheet_link_tag 'scaffold'
+    = javascript_include_tag 'http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js', 'https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.11/jquery-ui.min.js'
+    = javascript_include_tag 'rails'
+    = csrf_meta_tag
+  %body
+    #container
+      %ul.user_nav
+        = link_to 'Restaurants', restaurants_path
+        = link_to 'Pictures', pictures_path
+        = render 'devise/shared/registration_items'
+        = render 'devise/shared/login_items'
+      - flash.each do |name, msg|
+        = content_tag :div, msg, :id => "flash_#{name}"
+      = yield

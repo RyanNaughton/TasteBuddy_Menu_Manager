@@ -1,0 +1,40 @@
+- if @restaurant
+  %h1= "#{@restaurant.name} Menu Items"
+- else
+  %h1 Menu Items
+
+%table
+  %tr
+    - if can? :manage, MenuItem
+      %th Survey
+    %th Name
+    - if can? :manage, MenuItem
+      %th Description
+      %th Prices
+
+  - @menu_items.each do |menu_item|
+    %tr
+      - if can? :manage, menu_item
+        %td= render partial: 'shared/survey_form', :locals => { :object  => menu_item }
+      %td= menu_item.name
+      - if can? :manage, MenuItem
+        %td= menu_item.description
+        %td= menu_item.prices
+
+%br
+
+- if @restaurant
+  = link_to 'Back to restaurant', restaurant_path(@restaurant)
+
+:javascript
+  $(':checkbox').change(function() {
+    var data = $(this).closest("form").serialize();
+    var url = $(this).closest("form").attr("action")
+    $.ajax({
+       type: "PUT",
+       dataType: "json",
+       processData: false,
+       url: url,
+       data: data
+     });
+  });

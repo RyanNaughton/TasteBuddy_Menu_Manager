@@ -1,0 +1,149 @@
+= form_for setup_restaurant(@restaurant) do |f|
+  -if @restaurant.errors.any?
+    #error_explanation
+      %h2= "#{pluralize(@restaurant.errors.count, "error")} prohibited this restaurant from being saved:"
+      %ul
+        - @restaurant.errors.full_messages.each do |msg|
+          %li= msg
+
+  .field
+    = f.label :name
+    = f.text_field :name
+  .field
+    = f.label :website_url, 'Website URL'
+    = f.text_field :website_url, :size => 80
+  .field
+    = f.label :cuisine_types, 'Cuisine Types'
+    %br
+    = f.collection_select :cuisine_types, cuisine_types, :to_s, :to_s, {}, {:multiple => true}
+  .field
+    = f.label :phone
+    = f.text_field :phone
+  .field
+    = f.label :fax
+    = f.text_field :fax
+  .field
+    = f.label :address_1
+    = f.text_field :address_1
+  .field
+    = f.label :address_2
+    = f.text_field :address_2
+  .field
+    = f.label :city_town, 'City'
+    = f.text_field :city_town
+  .field
+    = f.label :state_province, 'State'
+    = f.text_field :state_province, :size => 2
+  .field
+    = f.label :postal_code, 'ZIP Code'
+    = f.text_field :postal_code
+  .field
+    = f.label :country
+    = f.text_field :country, :size => 2
+  .field
+    = f.label :neighborhood
+    = f.collection_select :neighborhood, neighborhoods, :to_s, :to_s, :prompt => true
+  .field
+    = f.label :dress_code
+    = f.collection_select :dress_code, dress_codes, :to_s, :to_s, :prompt => true
+  .field
+    = f.label :credit_cards
+    = f.radio_button :credit_cards, true
+    = f.label :credit_cards, 'Yes', :value => true
+    = f.radio_button :credit_cards, false
+    = f.label :credit_cards, 'No', :value => false
+  .field
+    = f.label :reservations
+    = f.radio_button :reservations, true
+    = f.label :reservations, 'Yes', :value => true
+    = f.radio_button :reservations, false
+    = f.label :reservations, 'No', :value => false
+  .field
+    = f.label :takeout
+    = f.radio_button :takeout, true
+    = f.label :takeout, 'Yes', :value => true
+    = f.radio_button :takeout, false
+    = f.label :takeout, 'No', :value => false
+  .field
+    = f.label :delivery
+    = f.radio_button :delivery, true
+    = f.label :delivery, 'Yes', :value => true
+    = f.radio_button :delivery, false
+    = f.label :delivery, 'No', :value => false
+  / .field
+  /   = f.label :delivery_minimum
+  /   = f.number_field :delivery_minimum, :min => 0, :max => 25, :step => 5, :size => 6
+  / .field
+  /   = f.label :delivery_fee
+  /   = f.number_field :delivery_fee, :min => 0, :max => 25, :step => 0.25, :size => 6
+  / .field
+  /   = f.label :delivery_details
+  /   = f.text_field :delivery_details
+  .field
+    = f.label :wheelchair_access
+    = f.radio_button :wheelchair_access, true
+    = f.label :wheelchair_access, 'Yes', :value => true
+    = f.radio_button :wheelchair_access, false
+    = f.label :wheelchair_access, 'No', :value => false
+  .field
+    = f.label :group_friendly
+    = f.radio_button :group_friendly, true
+    = f.label :group_friendly, 'Yes', :value => true
+    = f.radio_button :group_friendly, false
+    = f.label :group_friendly, 'No', :value => false
+  .field
+    = f.label :kid_friendly
+    = f.radio_button :kid_friendly, true
+    = f.label :kid_friendly, 'Yes', :value => true
+    = f.radio_button :kid_friendly, false
+    = f.label :kid_friendly, 'No', :value => false
+  .field
+    = f.label :outdoor_seating
+    = f.radio_button :outdoor_seating, true
+    = f.label :outdoor_seating, 'Yes', :value => true
+    = f.radio_button :outdoor_seating, false
+    = f.label :outdoor_seating, 'No', :value => false
+  .field
+    = f.label :byob, 'BYOB'
+    = f.radio_button :byob, true
+    = f.label :byob, 'Yes', :value => true
+    = f.radio_button :byob, false
+    = f.label :byob, 'No', :value => false
+  .field
+    = f.label :alcohol_type
+    = f.collection_select :alcohol_type, alcohol_types, :to_s, :to_s, :prompt => true
+  .field
+    = f.label :live_music, 'Live Music or Live DJ?'
+    = f.radio_button :live_music, true
+    = f.label :live_music, 'Yes', :value => true
+    = f.radio_button :live_music, false
+    = f.label :live_music, 'No', :value => false
+  .field
+    = f.label :live_music_details, 'Live Music Details (Typical Times and Days Available)'
+    = f.text_field :live_music_details
+  .field
+    = f.label :parking
+    = f.collection_select :parking, parking_types, :to_s, :to_s, :prompt => true
+  .field
+    = f.label :parking_details
+    = f.text_field :parking_details
+  .field
+    = f.label :smoking
+    = f.radio_button :smoking, true
+    = f.label :smoking, 'Yes', :value => true
+    = f.radio_button :smoking, false
+    = f.label :smoking, 'No', :value => false
+  .field
+    = f.label :wifi, 'Wi-Fi'
+    = f.radio_button :wifi, true
+    = f.label :wifi, 'Yes', :value => true
+    = f.radio_button :wifi, false
+    = f.label :wifi, 'No', :value => false
+  .field
+    = f.label :nearest_transit
+    = f.text_field :nearest_transit
+  .field
+    = f.label :additional_details
+    = f.text_field :additional_details
+  .actions
+    = f.submit 'Save'

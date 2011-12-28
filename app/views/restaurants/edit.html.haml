@@ -1,0 +1,10 @@
+%h1 Edit Restaurant
+
+= render 'form'
+
+- if can? :update, MenuItem
+  = link_to 'Menu Items', restaurant_menu_items_path(@restaurant)
+  \|
+= link_to 'Show Restaurant', @restaurant
+\|
+= link_to 'Back to Restaurants Index', restaurants_path

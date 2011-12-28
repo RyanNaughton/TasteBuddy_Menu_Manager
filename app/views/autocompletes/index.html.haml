@@ -1,0 +1,21 @@
+%h1 Listing autocompletes
+
+%table
+  %tr
+    %th Find
+    %th Near
+    %th
+    %th
+    %th
+
+  - @autocompletes.each do |autocomplete|
+    %tr
+      %td= autocomplete.find
+      %td= autocomplete.near
+      %td= link_to 'Show', autocomplete
+      %td= link_to 'Edit', edit_autocomplete_path(autocomplete)
+      %td= link_to 'Destroy', autocomplete, :confirm => 'Are you sure?', :method => :delete
+
+%br
+
+= link_to 'New Autocomplete', new_autocomplete_path

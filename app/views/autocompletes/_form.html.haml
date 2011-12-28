@@ -1,0 +1,16 @@
+= form_for @autocomplete do |f|
+  -if @autocomplete.errors.any?
+    #error_explanation
+      %h2= "#{pluralize(@autocomplete.errors.count, "error")} prohibited this autocomplete from being saved:"
+      %ul
+        - @autocomplete.errors.full_messages.each do |msg|
+          %li= msg
+
+  .field
+    = f.label :find
+    = f.text_field :find
+  .field
+    = f.label :near
+    = f.text_field :near
+  .actions
+    = f.submit 'Save'

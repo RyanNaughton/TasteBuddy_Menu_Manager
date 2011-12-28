@@ -1,0 +1,9 @@
+development:
+  host: localhost
+  database: menu_development
+test:
+  host: localhost
+  database: menu_test
+production:
+  host: localhost
+  database: menu_production

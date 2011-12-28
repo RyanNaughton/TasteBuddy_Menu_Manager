@@ -1,0 +1,23 @@
+%figure
+  %dl
+    - if @picture.content_description.present?
+      %dt Who/What:
+      %dd= @picture.content_description
+    - if @picture.location_description.present?
+      %dt Where:
+      %dd= @picture.location_description
+  %img{:src => @picture.attachment.url(:'300px')}
+  - if @picture.caption.present?
+    %figcaption= @picture.caption
+%p
+  Styles
+  %br/
+  - @picture.export_styles.each do |style|
+    = link_to style, @picture.attachment.url(style)
+- if can? :update, @picture
+  = link_to 'Edit', edit_picture_path(@picture)
+  |
+- if can? :delete, @picture
+  = link_to 'Remove', @picture, :confirm => 'Are you sure?', :method => :delete
+  |
+= link_to 'Back to Pictures Index', pictures_path

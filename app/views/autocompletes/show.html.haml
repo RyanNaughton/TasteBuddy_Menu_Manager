@@ -1,0 +1,12 @@
+%p#notice= notice
+
+%p
+  %b Find:
+  = @autocomplete.find
+%p
+  %b Near:
+  = @autocomplete.near
+
+= link_to 'Edit', edit_autocomplete_path(@autocomplete)
+\|
+= link_to 'Back', autocompletes_path

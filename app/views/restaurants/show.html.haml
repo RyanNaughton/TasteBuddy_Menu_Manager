@@ -1,0 +1,160 @@
+%header
+  %h1
+    = @restaurant.name
+%section{:class => 'rating'}
+  %p
+    Average rating:
+    %span#average_rating= format_rating(@average_rating)
+    out of 5
+  - if can? :rate, @restaurant
+    = image_tag 'rate_me.gif'
+    = form_tag(rate_restaurant_url(@restaurant), :method => 'put', :remote => true) do
+      = label("value_1", content_tag(:span, '1'), {:class=>"rating", :id=>"1"})
+      = radio_button_tag("value", 1, @user_rating == 1, :class => 'rating_button')
+      = label("value_2", content_tag(:span, '2'), {:class=>"rating", :id=>"2"})
+      = radio_button_tag("value", 2, @user_rating == 2, :class => 'rating_button')
+      = label("value_3", content_tag(:span, '3'), {:class=>"rating", :id=>"3"})
+      = radio_button_tag("value", 3, @user_rating == 3, :class => 'rating_button')
+      = label("value_4", content_tag(:span, '4'), {:class=>"rating", :id=>"4"})
+      = radio_button_tag("value", 4, @user_rating == 4, :class => 'rating_button')
+      = label("value_5", content_tag(:span, '5'), {:class=>"rating", :id=>"5"})
+      = radio_button_tag("value", 5, @user_rating == 5, :class => 'rating_button')
+      = submit_tag 'Post'
+:javascript
+  // Sets up the stars to match the data when the page is loaded.
+  $(function () {
+      var checkedId = $('input:checked').attr('id');
+      $('form > label[for=' + checkedId + ']').prevAll().andSelf().addClass('bright');
+  });
+
+  $(document).ready(function() {
+      // Makes stars glow on hover.
+      $('form > label').hover(
+          function() {    // mouseover
+              $(this).prevAll().andSelf().addClass('glow');
+          },function() {  // mouseout
+              $(this).siblings().andSelf().removeClass('glow');
+      });
+
+      // Makes stars stay glowing after click.
+      $('form > label').click(function() {
+          $(this).siblings().removeClass("bright");
+          $(this).prevAll().andSelf().addClass("bright");
+      });
+
+      // Submits the form (saves data) after user makes a change.
+      $('form').change(function() {
+        var data = $('input:checked').closest("form").serialize();
+        var url = $('input:checked').closest("form").attr("action");
+        $.ajax({
+           type: "PUT",
+           dataType: "json",
+           processData: false,
+           url: url,
+           data: data,
+           success: function (resp) {
+             $('#average_rating').html(eval(resp).average_rating);
+           }
+         });
+      });
+  });
+
+%address
+  - if ! @restaurant.website_url.blank?
+    %span{:class => 'website_url block'}
+      = link_to @restaurant.website_url, @restaurant.website_url
+  - if ! @restaurant.neighborhood.blank?
+    %span{:class => 'neighborhood block'}
+      = @restaurant.neighborhood
+  - if ! @restaurant.phone.blank?
+    %span{:class => 'phone block'}
+      = @restaurant.phone
+  - if ! @restaurant.fax.blank?
+    %span{:class => 'fax block'}
+      = @restaurant.fax
+  - if ! @restaurant.address_1.blank?
+    %span{:class => 'address_1 block'}
+      = @restaurant.address_1
+  - if ! @restaurant.address_2.blank?
+    %span{:class => 'address_2 block'}
+      = @restaurant.address_2
+  %span{:class => 'single_line block'}
+    - if ! @restaurant.city_town.blank?
+      %span{:class => 'city_town'}
+        = @restaurant.city_town
+    - if ! @restaurant.state_province.blank?
+      %span{:class => 'state_province'}
+        = @restaurant.state_province
+    - if ! @restaurant.postal_code.blank?
+      %span{:class => 'postal_code'}
+        = @restaurant.postal_code
+  - if ! @restaurant.country.blank?
+    %span{:class => 'country block'}
+      = @restaurant.country
+%section{:class => 'features'}
+  %dl
+    - if ! @restaurant.cuisine_types.blank?
+      %dt Cuisine Types
+      %dd= @restaurant.cuisine_types.join(', ')
+    - if ! @restaurant.dress_code.blank?
+      %dt Dress Code
+      %dd= humanize_bool @restaurant.dress_code
+    - if ! @restaurant.credit_cards.blank?
+      %dt Credit Cards
+      %dd= humanize_bool @restaurant.credit_cards
+    - if ! @restaurant.reservations.blank?
+      %dt Reservations
+      %dd= humanize_bool @restaurant.reservations
+    - if ! @restaurant.takeout.blank?
+      %dt Takeout
+      %dd= humanize_bool @restaurant.takeout
+    - if ! @restaurant.delivery.blank?
+      %dt Delivery
+      %dd= humanize_bool @restaurant.delivery
+    - if ! @restaurant.wheelchair_access.blank?
+      %dt Wheelchair Access
+      %dd= humanize_bool @restaurant.wheelchair_access
+    - if ! @restaurant.group_friendly.blank?
+      %dt Group Friendly
+      %dd= humanize_bool @restaurant.group_friendly
+    - if ! @restaurant.kid_friendly.blank?
+      %dt Kid Friendly
+      %dd= humanize_bool @restaurant.kid_friendly
+    - if ! @restaurant.outdoor_seating.blank?
+      %dt Outdoor Seating
+      %dd= humanize_bool @restaurant.outdoor_seating
+    - if ! @restaurant.alcohol_type.blank?
+      %dt Alcohol Type
+      %dd= humanize_bool @restaurant.alcohol_type
+    - if ! @restaurant.byob.blank?
+      %dt BYOB
+      %dd= humanize_bool @restaurant.byob
+    - if ! @restaurant.live_music.blank?
+      %dt Live Music or Live DJ
+      %dd= humanize_bool @restaurant.live_music
+    - if ! @restaurant.live_music_details.blank?
+      %dt Live Music Details (Typical Times and Days Available)
+      %dd= @restaurant.live_music_details
+    - if ! @restaurant.parking.blank?
+      %dt Parking
+      %dd= @restaurant.parking
+    - if ! @restaurant.parking_details.blank?
+      %dt Parking Details
+      %dd= @restaurant.parking_details
+    - if ! @restaurant.wifi.blank?
+      %dt Wi-Fi
+      %dd= humanize_bool @restaurant.wifi
+    - if ! @restaurant.smoking.blank?
+      %dt Smoking
+      %dd= humanize_bool @restaurant.smoking
+    - if ! @restaurant.nearest_transit.blank?
+      %dt Nearest Transit
+      %dd= @restaurant.nearest_transit
+    - if ! @restaurant.additional_details.blank?
+      %dt Additional Details
+      %dd= @restaurant.additional_details
+= render 'menu'
+- if can? :update, @restaurant
+  = link_to 'Edit', edit_restaurant_path(@restaurant)
+  \|
+= link_to 'Back to Restaurants Index', restaurants_path

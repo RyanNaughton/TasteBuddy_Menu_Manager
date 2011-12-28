@@ -1,0 +1,49 @@
+%h1 Restaurants
+
+%table
+  %tr
+    - if can? :manage, Restaurant
+      %th Survey
+    %th Name
+    %th Phone
+    %th Address
+    %th City
+    %th Neighborhood
+    %th Website URL
+    %th
+    %th
+    %th
+
+  - @restaurants.each do |restaurant|
+    %tr
+      - if can? :manage, restaurant
+        %td= render partial: 'shared/survey_form', :locals => { :object  => restaurant }
+      %td= link_to restaurant.name, restaurant
+      %td=raw restaurant.phone.to_s.sub(' ', '&nbsp;').sub('-', '&#8209;')
+      %td= restaurant.address_1
+      %td= "#{restaurant.city_town}"
+      %td= restaurant.neighborhood
+      %td
+        %div{ style: 'overflow:auto;width:200px;'}
+          = restaurant.website_url? ? link_to(restaurant.website_url, restaurant.website_url) : escape_once('&mdash;')
+      - if can? :update, restaurant
+        %td= link_to 'Edit', edit_restaurant_path(restaurant)
+      - if can? :destroy, restaurant
+        %td= link_to 'Remove', restaurant, :confirm => 'Are you sure?', :method => :delete
+
+%br
+- if can? :create, Restaurant
+  = link_to 'Add a Restaurant', new_restaurant_path
+
+:javascript
+  $(':checkbox').change(function() {
+    var data = $(this).closest("form").serialize();
+    var url = $(this).closest("form").attr("action")
+    $.ajax({
+       type: "PUT",
+       dataType: "json",
+       processData: false,
+       url: url,
+       data: data
+     });
+  });

@@ -1,0 +1,15 @@
+- if ! @restaurant.menu.blank?
+  %section{:class => 'menu'}
+    %h1 Menu
+    - @restaurant.menu.to_a.each do |level_1|
+      - if ! level_1['name'].blank?
+        %h2= level_1['name']
+      - level_1['subcategories'].to_a.each do |level_2|
+        - if ! level_2['name'].blank?
+          %h3= level_2['name']
+        - if ! level_2['items'].to_a.empty?
+          %ul
+            - level_2['items'].each do |level_3|
+              - if ! level_3['name'].blank?
+                %li{:class => 'item', :id => level_3['id']}
+                  = level_3['name']

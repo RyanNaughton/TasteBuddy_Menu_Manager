@@ -1,0 +1,1873 @@
+--- 
+- :name: Bar Louie
+  :cuisine_type: Nightlife
+  :restaurant_url: http://www.barlouieamerica.com/hydepark.html
+  :phone: (773) 363-5300
+  :yelp_id: 70zjsFz_zDM2RDQBZXvBiw
+  :address_1: 5500 S Shore Dr
+  :address_2: 
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60686"
+  :neighborhood: Hyde Park
+  :latitude: "41.796153"
+  :longitude: "-87.580843"
+- :name: Bonjour Cafe Bakery
+  :cuisine_type: Bakeries
+  :restaurant_url: 
+  :phone: (773) 241-5300
+  :yelp_id: tu2c7kYA-EExZE9xYVUBvA
+  :address_1: 1550 E 55th St
+  :address_2: (between Harper Ave & Lake Park Ave)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60615"
+  :neighborhood: Hyde Park
+  :latitude: "41.7949981689"
+  :longitude: "-87.5871963501"
+- :name: Calypso Cafe
+  :cuisine_type: Caribbean
+  :restaurant_url: http://www.calypsocafechicago.com
+  :phone: (773) 955-0229
+  :yelp_id: BzOERdS9Dyp3sRACxLhH5g
+  :address_1: 5211 S Harper AveIn Harper Court
+  :address_2: 
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60615"
+  :neighborhood: Hyde Park
+  :latitude: "41.8005136"
+  :longitude: "-87.5890857"
+- :name: Cedars Mediterranean Kitchen
+  :cuisine_type: Middle Eastern
+  :restaurant_url: http://www.eatcedars.com
+  :phone: (773) 324-6227
+  :yelp_id: xzI69_poJyv41psjbXlXpg
+  :address_1: 1206 E 53rd St
+  :address_2: (between Woodlawn Ave & Kimbark Ave)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60615"
+  :neighborhood: Hyde Park
+  :latitude: "41.7994741"
+  :longitude: "-87.5963"
+- :name: Edwardo's of Hyde Park
+  :cuisine_type: Pizza
+  :restaurant_url: 
+  :phone: (773) 241-7960
+  :yelp_id: S0PVY68AYuja0g-eY2TL7w
+  :address_1: 1321 E 57th St
+  :address_2: (between Kenwood Ave & Kimbark Ave)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60637"
+  :neighborhood: Hyde Park
+  :latitude: "41.7915992737"
+  :longitude: "-87.5942001343"
+- :name: HomeMade Pizza Co
+  :cuisine_type: Pizza
+  :restaurant_url: http://www.homemadepizza.com
+  :phone: (773) 493-2000
+  :yelp_id: onKYYsiN2pjuW-SCb74GFQ
+  :address_1: Hyde Park Shopping Ctr1546 E 55th St
+  :address_2: 
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60615"
+  :neighborhood: Hyde Park
+  :latitude: "41.7952508"
+  :longitude: "-87.5888514"
+- :name: La Petite Folie
+  :cuisine_type: French
+  :restaurant_url: http://www.lapetitefolie.com/
+  :phone: (773) 493-1394
+  :yelp_id: pgRE_1OXaH1p4x9_aT3czQ
+  :address_1: 1504 E 55th St
+  :address_2: 
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60615"
+  :neighborhood: Hyde Park
+  :latitude: "41.7955155"
+  :longitude: "-87.5894544"
+- :name: Cholie's Pizza
+  :cuisine_type: Pizza
+  :restaurant_url: 
+  :phone: (773) 684-8688
+  :yelp_id: VVQJ6evkWUpkCAb82MiVdQ
+  :address_1: 1601 E 53rd Street
+  :address_2: 
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60615"
+  :neighborhood: Hyde Park
+  :latitude: "41.7995653"
+  :longitude: "-87.587213"
+- :name: Kikuya Japanese Restaurant
+  :cuisine_type: Japanese
+  :restaurant_url: http://www.kikuyaonline.com
+  :phone: (773) 667-3727
+  :yelp_id: TyBQn7QWWW8oJLy7l_nC3Q
+  :address_1: 1601 E 55th St
+  :address_2: 
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60615"
+  :neighborhood: Hyde Park
+  :latitude: "41.795071"
+  :longitude: "-87.586587"
+- :name: Leona's Restaurant
+  :cuisine_type: Italian
+  :restaurant_url: http://www.leonas.com
+  :phone: (773) 363-2600
+  :yelp_id: 4eK8NfVS48tbhDw5qGZFMQ
+  :address_1: 1236 E 53rd St
+  :address_2: (between Woodlawn Ave & Kimbark Ave)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60615"
+  :neighborhood: Hyde Park
+  :latitude: "41.7999031"
+  :longitude: "-87.5953664"
+- :name: Maravillas
+  :cuisine_type: Mexican
+  :restaurant_url: 
+  :phone: (773) 955-7680
+  :yelp_id: zIueq-_2Ag0wAzID--EdZg
+  :address_1: 5506 S Lake Park Ave
+  :address_2: 
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60637"
+  :neighborhood: Hyde Park
+  :latitude: "41.7946434"
+  :longitude: "-87.587677"
+- :name: Noodles Etc On Campus
+  :cuisine_type: Restaurants
+  :restaurant_url: 
+  :phone: (773) 684-2801
+  :yelp_id: ks0uiQ7ITD27BxKZvHGHzQ
+  :address_1: 1333 E 57th St
+  :address_2: (between Kenwood Ave & Kimbark Ave)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60637"
+  :neighborhood: Hyde Park
+  :latitude: "41.7915992737"
+  :longitude: "-87.5936965942"
+- :name: The Original Pancake House
+  :cuisine_type: Breakfast & Brunch
+  :restaurant_url: http://www.originalpancakehouse.com
+  :phone: (773) 288-2322
+  :yelp_id: vh7hvEZrUTubhgdkKBivNQ
+  :address_1: 1517 E Hyde Park Blvd
+  :address_2: (between Harper Ave & Lake Park Ave)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60615"
+  :neighborhood: Hyde Park
+  :latitude: "41.802422"
+  :longitude: "-87.588638"
+- :name: Park 52
+  :cuisine_type: American (New)
+  :restaurant_url: http://park52chicago.com
+  :phone: (773) 241-5200
+  :yelp_id: ty_I5REFi-wERC6O9fW6qA
+  :address_1: 5201 S Harper Ave
+  :address_2: 
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60615"
+  :neighborhood: Hyde Park
+  :latitude: "41.800909"
+  :longitude: "-87.589103"
+- :name: Pepe's Mexican Food
+  :cuisine_type: Mexican
+  :restaurant_url: 
+  :phone: (773) 752-9300
+  :yelp_id: _fc5rbHjO7WzfF0G1GSOBA
+  :address_1: 1310 E 53rd Street
+  :address_2: 
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60615"
+  :neighborhood: Hyde Park
+  :latitude: "41.799289"
+  :longitude: "-87.59423"
+- :name: Piccolo Mondo
+  :cuisine_type: Italian
+  :restaurant_url: http://www.piccolomondo.us
+  :phone: (773) 643-1106
+  :yelp_id: R2QmrHhQi3OgGRBdflml0A
+  :address_1: 1642 E 56th St
+  :address_2: (between Cornell Ave & Hyde Park Blvd)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60637"
+  :neighborhood: Hyde Park
+  :latitude: "41.7933006287"
+  :longitude: "-87.5849990845"
+- :name: Pizza Capri
+  :cuisine_type: Pizza
+  :restaurant_url: 
+  :phone: (773) 324-7777
+  :yelp_id: laeCW7yUmDL9OAxToutgNw
+  :address_1: 1501 E 53rd St
+  :address_2: (between Harper Ave & Lake Park Ave)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60615"
+  :neighborhood: Hyde Park
+  :latitude: "41.7995986938"
+  :longitude: "-87.5888977051"
+- :name: Pockets
+  :cuisine_type: Restaurants
+  :restaurant_url: http://www.pocketsonline.com/
+  :phone: (773) 667-1313
+  :yelp_id: CkAbUyp08qTl5MPuN6IFAg
+  :address_1: 1309 E 53rd St
+  :address_2: (between Kenwood Ave & Kimbark Ave)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60615"
+  :neighborhood: Hyde Park
+  :latitude: "41.7994995117"
+  :longitude: "-87.5939025879"
+- :name: Potbelly
+  :cuisine_type: Sandwiches
+  :restaurant_url: http://www.potbelly.com
+  :phone: (773) 493-0129
+  :yelp_id: 2tJ49WxdL0Yopcoo-c72Fw
+  :address_1: 5428 S Lake Park Ave
+  :address_2: 
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60615"
+  :neighborhood: Hyde Park
+  :latitude: "41.7970232"
+  :longitude: "-87.587385"
+- :name: Rajun Cajun
+  :cuisine_type: Soul Food
+  :restaurant_url: http://RajunRestaurant.com
+  :phone: (773) 955-1145
+  :yelp_id: QNpzYilmA4KlBfaK7kJBLA
+  :address_1: 1459 E 53rd St
+  :address_2: (between Blackstone Ave & Harper Ave)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60615"
+  :neighborhood: Hyde Park
+  :latitude: "41.7994003296"
+  :longitude: "-87.5897979736"
+- :name: Sammy's Touch
+  :cuisine_type: Diners
+  :restaurant_url: 
+  :phone: (773) 288-2645
+  :yelp_id: zEGAV0J9kB-lrWOkFSyMrQ
+  :address_1: 5659 S Cottage Grove Ave
+  :address_2: 
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60637"
+  :neighborhood: Hyde Park
+  :latitude: "41.7914009094"
+  :longitude: "-87.6059036255"
+- :name: Seoul Corea
+  :cuisine_type: Korean
+  :restaurant_url: 
+  :phone: (773) 288-1795
+  :yelp_id: yXF7_ozFi2Op1-lNPCmWew
+  :address_1: 1603 E 55th St
+  :address_2: 
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60615"
+  :neighborhood: Hyde Park
+  :latitude: "41.7951749"
+  :longitude: "-87.5871464"
+- :name: Seven Ten Lanes
+  :cuisine_type: Lounges
+  :restaurant_url: 
+  :phone: (773) 347-2695
+  :yelp_id: ZKd1s7JqyYBG8DKJ72hOBg
+  :address_1: 1055 E 55th St
+  :address_2: (between Ellis Ave & Greenwood Ave)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60615"
+  :neighborhood: Hyde Park
+  :latitude: "41.7949981689"
+  :longitude: "-87.6006011963"
+- :name: Siam Restaurant
+  :cuisine_type: Thai
+  :restaurant_url: 
+  :phone: (773) 324-9296
+  :yelp_id: vBP72HxQbXFygFq_Q4q0nQ
+  :address_1: 1639 E 55th St
+  :address_2: 
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60615"
+  :neighborhood: Hyde Park
+  :latitude: "41.795224"
+  :longitude: "-87.585197"
+- :name: Thai 55th Restaurant
+  :cuisine_type: Thai
+  :restaurant_url: http://thai55restaurant.com
+  :phone: (773) 363-7119
+  :yelp_id: gzOW64dw3tTW6ZIzpFJHBA
+  :address_1: 1607 East 55th Street
+  :address_2: 
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60615"
+  :neighborhood: Hyde Park
+  :latitude: "41.7951814"
+  :longitude: "-87.5868552"
+- :name: The Big Easy
+  :cuisine_type: Cajun/Creole
+  :restaurant_url: 
+  :phone: (773) 330-0440
+  :yelp_id: UF_yjUttzC-GBvZsB-T54A
+  :address_1: 1660 E 55th St
+  :address_2: 
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60637"
+  :neighborhood: Hyde Park
+  :latitude: "41.7952462"
+  :longitude: "-87.5847387"
+- :name: The Nile Restaurant
+  :cuisine_type: Middle Eastern
+  :restaurant_url: 
+  :phone: (773) 324-9499
+  :yelp_id: QRM_eUTePiPI1uBhF66ZDQ
+  :address_1: 1611 E 55th St
+  :address_2: 
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60615"
+  :neighborhood: Hyde Park
+  :latitude: "41.79529953"
+  :longitude: "-87.5866012573"
+- :name: The Sit Down Cafe & Sushi Bar
+  :cuisine_type: Sushi Bars
+  :restaurant_url: http://www.thesitdown53.com
+  :phone: (773) 324-3700
+  :yelp_id: 3xvQksDVZQy_nCFwweyoZw
+  :address_1: 1312 E 53rd St
+  :address_2: (between Kenwood Ave & Kimbark Ave)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60615"
+  :neighborhood: Hyde Park
+  :latitude: "41.799396"
+  :longitude: "-87.594369"
+- :name: The Snail Thai Cuisine
+  :cuisine_type: Thai
+  :restaurant_url: http://www.snailthai.com/main.html
+  :phone: (773) 667-5423
+  :yelp_id: kiCVprRpJ2UBvOrdck9akA
+  :address_1: 1649 E 55th Street
+  :address_2: (between Cornell Ave & Hyde Park Blvd)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60615"
+  :neighborhood: Hyde Park
+  :latitude: "41.79529953"
+  :longitude: "-87.5849990845"
+- :name: Valois
+  :cuisine_type: Breakfast & Brunch
+  :restaurant_url: 
+  :phone: (773) 667-0647
+  :yelp_id: BwkeC6JB_4fIVpth2VUyQA
+  :address_1: 1518 E 53rd St
+  :address_2: (between Harper Ave & Lake Park Ave)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60615"
+  :neighborhood: Hyde Park
+  :latitude: "41.7994003296"
+  :longitude: "-87.5874023438"
+- :name: Wok N Roll
+  :cuisine_type: Chinese
+  :restaurant_url: 
+  :phone: (773) 643-3500
+  :yelp_id: AKATRVW_1R5QgzIWWY5fpw
+  :address_1: 1408 E 53rd St
+  :address_2: (between Blackstone Ave & Dorchester Ave)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60615"
+  :neighborhood: Hyde Park
+  :latitude: "41.7993011475"
+  :longitude: "-87.5912017822"
+- :name: Zaleski & Horvath MarketCafe
+  :cuisine_type: Coffee & Tea
+  :restaurant_url: http://www.zhmarketcafe.com/index.html
+  :phone: (773) 538-7372
+  :yelp_id: -Lm2nkvXCguuDko8uGDEWQ
+  :address_1: 1323 E 57th St
+  :address_2: (between Kimbark Ave & Kenwood Ave)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60637"
+  :neighborhood: Hyde Park
+  :latitude: "41.791191"
+  :longitude: "-87.593822"
+- :name: Ann Sather
+  :cuisine_type: Scandinavian
+  :restaurant_url: http://annsather.com
+  :phone: (773) 348-2378
+  :yelp_id: PsPpiyliUWvCCwrCjOza0g
+  :address_1: 909 W Belmont Ave
+  :address_2: (between Wilton Ave & Clark St)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60657"
+  :neighborhood: Lakeview
+  :latitude: "41.9399115"
+  :longitude: "-87.652899"
+- :name: Ann Sather
+  :cuisine_type: Scandinavian
+  :restaurant_url: http://annsather.com/
+  :phone: (773) 271-6677
+  :yelp_id: bEPhZCDzMe6lAtpNaECl_g
+  :address_1: 5207 N Clark St
+  :address_2: (between Farragut Ave & United States Highway 41)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60640"
+  :neighborhood: Uptown, Edgewater, Andersonville
+  :latitude: "41.976413"
+  :longitude: "-87.668398"
+- :name: Ann Sather's
+  :cuisine_type: Breakfast & Brunch
+  :restaurant_url: http://annsather.com/restaurants/locations.shtml
+  :phone: (773) 404-4475
+  :yelp_id: xy-klxCBeCQb3KXUPoAIRA
+  :address_1: 3416 N Southport Ave
+  :address_2: 
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60657"
+  :neighborhood: Lakeview
+  :latitude: "41.943687439"
+  :longitude: "-87.6640167236"
+- :name: Ann Sather Restaurant
+  :cuisine_type: Bakeries
+  :restaurant_url: http://annsather.com/Restaraunts%2520Pages/Belmont_Bkfst.html
+  :phone: (773) 305-0024
+  :yelp_id: OiP8yvkLXaygzWx8eQOimw
+  :address_1: 3411 N Broadway St
+  :address_2: (between Hawthorne Pl & Roscoe St)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60657"
+  :neighborhood: Lakeview
+  :latitude: "41.9435005188"
+  :longitude: "-87.6451034546"
+- :name: Arun's Thai Restaurant
+  :cuisine_type: Thai
+  :restaurant_url: http://www.arunsthai.com
+  :phone: (773) 539-1909
+  :yelp_id: h8mZa3L5TRGk9EZnpMxuSg
+  :address_1: 4156 N Kedzie Ave
+  :address_2: (between Warner Ave & Berteau Ave)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60618"
+  :neighborhood: Irving Park
+  :latitude: "41.957442"
+  :longitude: "-87.708462"
+- :name: Avec
+  :cuisine_type: French
+  :restaurant_url: http://www.avecrestaurant.com
+  :phone: (312) 377-2002
+  :yelp_id: mvFimrcREBIDo-pLAhMfNg
+  :address_1: 615 W Randolph St
+  :address_2: 
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60606"
+  :neighborhood: Near West Side
+  :latitude: "41.8843753"
+  :longitude: "-87.6433863"
+- :name: Ben Pao
+  :cuisine_type: Chinese
+  :restaurant_url: http://www.BenPao.com
+  :phone: (312) 222-1888
+  :yelp_id: 7AJ4A5t7-xaHrXCMUh_TPw
+  :address_1: 52 W Illinois St
+  :address_2: 
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60654"
+  :neighborhood: Near North Side
+  :latitude: "41.8908538"
+  :longitude: "-87.6301072"
+- :name: Bin 36
+  :cuisine_type: Wine Bars
+  :restaurant_url: http://www.bin36.com
+  :phone: (312) 755-9463
+  :yelp_id: u_Ze5HkcNXgECvYvKS0HLA
+  :address_1: 339 N Dearborn St
+  :address_2: 
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60654"
+  :neighborhood: Near North Side
+  :latitude: "41.888258"
+  :longitude: "-87.6295472"
+- :name: Bistro 110
+  :cuisine_type: French
+  :restaurant_url: http://www.bistro110restaurant.com
+  :phone: (312) 266-3110
+  :yelp_id: SEEPKLIhitpukXtGLFWRiQ
+  :address_1: 110 E Pearson St
+  :address_2: (between Rush St & Tower Ct)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60611"
+  :neighborhood: Near North Side, River East
+  :latitude: "41.8968009949"
+  :longitude: "-87.6219024658"
+- :name: Bistrot Zinc
+  :cuisine_type: French
+  :restaurant_url: http://www.bistrotzinc.com
+  :phone: (312) 337-1131
+  :yelp_id: CA-dFnJCCicrXjPUThysFQ
+  :address_1: 1131 N State St
+  :address_2: 
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60611"
+  :neighborhood: Gold Coast, Near North Side
+  :latitude: "41.9027689"
+  :longitude: "-87.6283371"
+- :name: Blackbird
+  :cuisine_type: American (New)
+  :restaurant_url: http://www.blackbirdrestaurant.com
+  :phone: (312) 715-0708
+  :yelp_id: bFxtGcL0W7ZNEj3NwTmM0A
+  :address_1: 619 W Randolph St
+  :address_2: 
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60606"
+  :neighborhood: Near West Side
+  :latitude: "41.884432"
+  :longitude: "-87.643464"
+- :name: Boka
+  :cuisine_type: American (New)
+  :restaurant_url: http://www.bokachicago.com
+  :phone: (312) 337-6070
+  :yelp_id: XKUZV9O2sRFLDIpAmwmG5g
+  :address_1: 1729 N Halsted St
+  :address_2: (between Concord Pl & Willow St)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60614"
+  :neighborhood: Lincoln Park
+  :latitude: "41.9128990173"
+  :longitude: "-87.6483001709"
+- :name: The Bongo Room
+  :cuisine_type: American (New)
+  :restaurant_url: http://thebongoroom.com
+  :phone: (773) 489-0690
+  :yelp_id: _b69OdBNLhysN1jFlYNQiA
+  :address_1: 1470 N Milwaukee Ave
+  :address_2: (between Evergreen Ave & Honore St)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60622"
+  :neighborhood: Wicker Park
+  :latitude: "41.9085998535"
+  :longitude: "-87.6744003296"
+- :name: Bongo Room
+  :cuisine_type: Breakfast & Brunch
+  :restaurant_url: http://www.thebongoroom.com
+  :phone: (312) 291-0100
+  :yelp_id: ZIqeTQDb26J1dnPeHGRiLA
+  :address_1: 1152 S Wabash Ave
+  :address_2: (between 11th St & Roosevelt Rd)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60605"
+  :neighborhood: South Loop
+  :latitude: "41.8677"
+  :longitude: "-87.626477"
+- :name: The Bristol
+  :cuisine_type: American (New)
+  :restaurant_url: http://thebristolchicago.com
+  :phone: (773) 862-5555
+  :yelp_id: 0S44DHW394RexDqtFYMQLg
+  :address_1: 2152 N Damen Ave
+  :address_2: (between Shakespeare Ave & Charleston St)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60647"
+  :neighborhood: Bucktown
+  :latitude: "41.921051"
+  :longitude: "-87.678047"
+- :name: Cafe 28
+  :cuisine_type: Cuban
+  :restaurant_url: http://www.cafe28.org
+  :phone: (773) 528-2883
+  :yelp_id: WaIbupMGDBi5B3SChsUH8A
+  :address_1: 1800 W Irving Park Rd
+  :address_2: 
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60613"
+  :neighborhood: Lakeview
+  :latitude: "41.954489"
+  :longitude: "-87.673317"
+- :name: Cafe Ba-Ba-Reeba
+  :cuisine_type: Spanish
+  :restaurant_url: http://www.cafebabareeba.com
+  :phone: (773) 935-5000
+  :yelp_id: y8jVBaHh8ntYkVqDXpsi1Q
+  :address_1: 2024 N Halsted St
+  :address_2: (between Armitage Ave & Dickens Ave)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60614"
+  :neighborhood: Lincoln Park, DePaul
+  :latitude: "41.91896"
+  :longitude: "-87.648872"
+- :name: Cafe Spiaggia
+  :cuisine_type: Italian
+  :restaurant_url: http://www.spiaggiarestaurant.com/%23/cafe/general-info/
+  :phone: (312) 280-2750
+  :yelp_id: oD9mXf_-7ukKOEGRP0HWvg
+  :address_1: 980 N Michigan AveLevel Two
+  :address_2: (between Walton St & Oak St)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60611"
+  :neighborhood: Magnificent Mile, Near North Side
+  :latitude: "41.900636"
+  :longitude: "-87.6242689"
+- :name: Carmine's
+  :cuisine_type: Restaurants
+  :restaurant_url: http://www.rosebudrestaurants.com
+  :phone: (312) 988-7676
+  :yelp_id: g7GcOkQSOfC9JONw_rkNwQ
+  :address_1: 1043 N Rush St
+  :address_2: (between Bellevue Pl & Cedar St)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60611"
+  :neighborhood: Near North Side
+  :latitude: "41.9019012451"
+  :longitude: "-87.6281967163"
+- :name: Carnivale
+  :cuisine_type: Latin American
+  :restaurant_url: http://www.carnivalechicago.com
+  :phone: (312) 850-5005
+  :yelp_id: sfWMOqUEp8S2adDeJp7Kzg
+  :address_1: 702 W Fulton St
+  :address_2: (between Union Ave & I-90)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60661"
+  :neighborhood: Near West Side, West Loop
+  :latitude: "41.887142"
+  :longitude: "-87.646054"
+- :name: Carson's Ribs & Steaks Downtown
+  :cuisine_type: Barbeque
+  :restaurant_url: http://www.ribs.com
+  :phone: (312) 280-9200
+  :yelp_id: xZJn8pMF4m3lcTC_THPQ3Q
+  :address_1: 612 N Wells St
+  :address_2: (between Ohio St & Ontario St)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60610"
+  :neighborhood: Near North Side, River North
+  :latitude: "41.8926010132"
+  :longitude: "-87.6339035034"
+- :name: Catch35
+  :cuisine_type: Seafood
+  :restaurant_url: http://www.catch35.com
+  :phone: (312) 346-3500
+  :yelp_id: TeJGJA4_iPNMDuQUxmphHg
+  :address_1: 35 W Wacker Dr
+  :address_2: (between Wabash Ave & Lower Wacker Dr)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60601"
+  :neighborhood: The Loop
+  :latitude: "41.8868064"
+  :longitude: "-87.6294815"
+- :name: Chalkboard
+  :cuisine_type: American (New)
+  :restaurant_url: http://www.chalkboardrestaurant.com
+  :phone: (773) 477-7144
+  :yelp_id: rAAGQCahAg-XSPZQ7o7bsA
+  :address_1: 4343 N Lincoln Ave
+  :address_2: (between Leavitt St & Montrose Ave)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60618"
+  :neighborhood: North Center
+  :latitude: "41.960592"
+  :longitude: "-87.683297"
+- :name: Chicago Chop House
+  :cuisine_type: Steakhouses
+  :restaurant_url: http://www.chicagochophouse.com/home.htm
+  :phone: (312) 787-7100
+  :yelp_id: eNX0-bvk4oYgEM7z8RMRMQ
+  :address_1: 60 W Ontario Street
+  :address_2: (between Clark St & Dearborn St)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60610"
+  :neighborhood: Near North Side
+  :latitude: "41.893229"
+  :longitude: "-87.630181"
+- :name: Chief O'Neill's Pub & Restaurant
+  :cuisine_type: Irish
+  :restaurant_url: http://www.chiefoneillspub.com
+  :phone: (773) 583-3066
+  :yelp_id: PTjBAjRMCxLKAob8Dt5SIA
+  :address_1: 3471 N Elston Ave
+  :address_2: (between Albany Ave & Troy St)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60618"
+  :neighborhood: Avondale
+  :latitude: "41.9444746"
+  :longitude: "-87.70548"
+- :name: Crofton On Wells
+  :cuisine_type: American (New)
+  :restaurant_url: http://www.croftononwells.com
+  :phone: (312) 755-1790
+  :yelp_id: e5b9NI8ZznncGrvcPmt-RQ
+  :address_1: 535 N Wells Street
+  :address_2: (between Grand Ave & Ohio St)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60610"
+  :neighborhood: Near North Side, River North
+  :latitude: "41.891698"
+  :longitude: "-87.634062"
+- :name: Erwin
+  :cuisine_type: American (New)
+  :restaurant_url: http://www.erwincafe.com/
+  :phone: (773) 528-7200
+  :yelp_id: yhu7-Vrp1BUshztWcOkEJg
+  :address_1: 2925 N Halsted St
+  :address_2: (between George St & Oakdale Ave)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60657"
+  :neighborhood: Lakeview
+  :latitude: "41.9353417"
+  :longitude: "-87.6490125"
+- :name: Ethiopian Diamond Restaurant
+  :cuisine_type: Ethiopian
+  :restaurant_url: http://www.ethiopiandiamondcuisine.com
+  :phone: (773) 338-6100
+  :yelp_id: SQbqAi053aFOfQhtPAC3mw
+  :address_1: 6120 N Broadway St
+  :address_2: (between Glenlake Ave & Hood Ave)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60660"
+  :neighborhood: Edgewater
+  :latitude: "41.9931505"
+  :longitude: "-87.6603642"
+- :name: Ethiopian Diamond Restaurant & Bar
+  :cuisine_type: Ethiopian
+  :restaurant_url: http://www.ethiopiandiamondcuisine.com
+  :phone: (773) 764-2200
+  :yelp_id: T--vSuQ5ai7oS2BSv3KtHg
+  :address_1: 7537 N Clark St
+  :address_2: (between Birchwood Ave & Howard St)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60626"
+  :neighborhood: Rogers Park
+  :latitude: "42.0178357"
+  :longitude: "-87.6756229"
+- :name: Everest
+  :cuisine_type: French
+  :restaurant_url: http://www.everestrestaurant.com
+  :phone: (312) 663-8920
+  :yelp_id: xoS0iA36biZSXYE7y57D_g
+  :address_1: One Financial Place440 S LaSalle St40th Floor
+  :address_2: 
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60605"
+  :neighborhood: 
+  :latitude: "41.8677988"
+  :longitude: "-87.6211061"
+- :name: Frontera Grill
+  :cuisine_type: Mexican
+  :restaurant_url: http://www.rickbayless.com/restaurants/grill.html
+  :phone: (312) 661-1434
+  :yelp_id: AqgG-1aD6JYj9D6OmBWO3w
+  :address_1: 445 N Clark St
+  :address_2: 
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60654"
+  :neighborhood: Near North Side
+  :latitude: "41.890421"
+  :longitude: "-87.630765"
+- :name: The Gage
+  :cuisine_type: Gastropubs
+  :restaurant_url: http://www.thegagechicago.com
+  :phone: (312) 372-4243
+  :yelp_id: vvhfPV-Llkd4fE2SHuLVvA
+  :address_1: 24 S Michigan Ave
+  :address_2: (between Madison St & Monroe St)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60603"
+  :neighborhood: The Loop
+  :latitude: "41.881292"
+  :longitude: "-87.62501"
+- :name: Gene & Georgetti
+  :cuisine_type: Italian
+  :restaurant_url: http://www.geneandgeorgetti.com
+  :phone: (312) 527-3718
+  :yelp_id: jsXtfVrcn7FrX06q3j_Xmg
+  :address_1: 500 N Franklin St
+  :address_2: (between Grand Ave & Illinois St)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60610"
+  :neighborhood: Near North Side, River North
+  :latitude: "41.8909988403"
+  :longitude: "-87.6353988647"
+- :name: Gibsons Bar & Steakhouse
+  :cuisine_type: Steakhouses
+  :restaurant_url: http://www.gibsonssteakhouse.com
+  :phone: (312) 266-8999
+  :yelp_id: sNQglz_HoXgnUi1KTN3Iew
+  :address_1: 1028 N Rush St
+  :address_2: (between Bellevue Pl & Oak St)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60611"
+  :neighborhood: Near North Side
+  :latitude: "41.901408"
+  :longitude: "-87.628081"
+- :name: Girl and the Goat
+  :cuisine_type: American (New)
+  :restaurant_url: http://www.girlandthegoat.com
+  :phone: (312) 492-6262
+  :yelp_id: qjnpkS8yZO8xcyEIy5OU9A
+  :address_1: 809 W Randolph St
+  :address_2: (between Halsted St & Green St)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60607"
+  :neighborhood: Near West Side, West Loop
+  :latitude: "41.8842754"
+  :longitude: "-87.6474264"
+- :name: Goose Island Wrigleyville
+  :cuisine_type: Restaurants
+  :restaurant_url: http://www.gooseisland.com
+  :phone: (773) 832-9040
+  :yelp_id: VD61yqORy7QPa2LvEZk09g
+  :address_1: 3535 N Clark St
+  :address_2: (between Cornelia Ave & Eddy St)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60657"
+  :neighborhood: Lakeview
+  :latitude: "41.9462013245"
+  :longitude: "-87.6558990479"
+- :name: Goose Island BrewPub
+  :cuisine_type: Bars
+  :restaurant_url: http://www.gooseisland.com/pages/clybourn_brewpub/65.php
+  :phone: (312) 915-0071
+  :yelp_id: SMl_Xhc8wrVAh2pefO5lhA
+  :address_1: 1800 N Clybourn Ave
+  :address_2: (between Sheffield Ave & Willow St)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60614"
+  :neighborhood: DePaul
+  :latitude: "41.913737"
+  :longitude: "-87.654317"
+- :name: Graham Elliot
+  :cuisine_type: American (New)
+  :restaurant_url: http://www.grahamelliot.com
+  :phone: (312) 624-9975
+  :yelp_id: LlHEzxQTiiLJokn2tli35A
+  :address_1: 217 W Huron St
+  :address_2: 
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60654"
+  :neighborhood: Near North Side, River North
+  :latitude: "41.8947718"
+  :longitude: "-87.634546"
+- :name: Green Zebra
+  :cuisine_type: Vegetarian
+  :restaurant_url: http://www.greenzebrachicago.com
+  :phone: (312) 243-7100
+  :yelp_id: arq49S7UpAXJKhs7nA6uLg
+  :address_1: 1460 W Chicago Ave
+  :address_2: 
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60642"
+  :neighborhood: Noble Square
+  :latitude: "41.896387"
+  :longitude: "-87.664801"
+- :name: Heaven On Seven On Wabash
+  :cuisine_type: Cajun/Creole
+  :restaurant_url: http://www.heavenonseven.com
+  :phone: (312) 263-6443
+  :yelp_id: KdTYm6S6PyIIEfYHHONZkw
+  :address_1: 111 N Wabash Ave Ste 700
+  :address_2: 
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60602"
+  :neighborhood: The Loop
+  :latitude: "41.8833999634"
+  :longitude: "-87.6261978149"
+- :name: Heaven On Seven
+  :cuisine_type: Southern
+  :restaurant_url: http://www.heavenonseven.com
+  :phone: (312) 280-7774
+  :yelp_id: gqaQfHaB9Merzwbk3N76Sw
+  :address_1: 600 N. Michigan Avenue
+  :address_2: (between Ohio St & Ontario St)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60611"
+  :neighborhood: Near North Side
+  :latitude: "41.8926010132"
+  :longitude: "-87.6243972778"
+- :name: Hopleaf Bar
+  :cuisine_type: American (New)
+  :restaurant_url: http://www.hopleaf.com
+  :phone: (773) 334-9851
+  :yelp_id: sR4EOfPuI-at41uIxIZPhw
+  :address_1: 5148 N Clark St
+  :address_2: (between United States Highway 41 & Winona St)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60640"
+  :neighborhood: Uptown, Andersonville
+  :latitude: "41.9757995605"
+  :longitude: "-87.6681976318"
+- :name: Hot Chocolate
+  :cuisine_type: American (Traditional)
+  :restaurant_url: http://www.hotchocolatechicago.com
+  :phone: (773) 489-1747
+  :yelp_id: JR5TOTAgxBj4YLfNQ3Dljw
+  :address_1: 1747 N Damen Ave
+  :address_2: (between Willow St & St Paul Ave)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60647"
+  :neighborhood: Wicker Park
+  :latitude: "41.913699"
+  :longitude: "-87.677435"
+- :name: Hot Doug's
+  :cuisine_type: Fast Food
+  :restaurant_url: http://www.hotdougs.com
+  :phone: (773) 279-9550
+  :yelp_id: HOJqzz1WvOmeR9oESJ4d9A
+  :address_1: 3324 N California Ave
+  :address_2: (between Henderson St & Roscoe St)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60618"
+  :neighborhood: Avondale
+  :latitude: "41.942659"
+  :longitude: "-87.698151"
+- :name: Hugo's Frog Bar
+  :cuisine_type: Seafood
+  :restaurant_url: http://www.hugosfrogbar.com
+  :phone: (312) 640-0999
+  :yelp_id: VikWqZa32i70Qp-ETzw_lw
+  :address_1: 1024 N Rush St
+  :address_2: (between Bellevue Pl & Oak St)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60611"
+  :neighborhood: Near North Side
+  :latitude: "41.9011001587"
+  :longitude: "-87.6277999878"
+- :name: India House Restaurant
+  :cuisine_type: Indian
+  :restaurant_url: http://www.indiahousechicago.com
+  :phone: (312) 645-9500
+  :yelp_id: dLS8GPg-K1O-zJ3VJAtiyg
+  :address_1: 59 W Grand Ave
+  :address_2: (between Clark St & Dearborn St)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60610"
+  :neighborhood: Near North Side
+  :latitude: "41.8916015625"
+  :longitude: "-87.629699707"
+- :name: Japonais Restaurant
+  :cuisine_type: Japanese
+  :restaurant_url: http://www.japonaischicago.com
+  :phone: (312) 822-9600
+  :yelp_id: lV9iSI2FLVlmbMI6ab0HIg
+  :address_1: 600 W Chicago Ave
+  :address_2: 
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60610"
+  :neighborhood: Near North Side, River North
+  :latitude: "41.8964716"
+  :longitude: "-87.6435794"
+- :name: Keefer's Restaurant
+  :cuisine_type: Steakhouses
+  :restaurant_url: http://keefersrestaurant.com
+  :phone: (312) 467-9525
+  :yelp_id: 3JPq73YSPHENeI0N-GGxWg
+  :address_1: 20 W Kinzie St
+  :address_2: (between Dearborn St & State St)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60610"
+  :neighborhood: Near North Side
+  :latitude: "41.8893013"
+  :longitude: "-87.6287002563"
+- :name: Kiki's Bistro
+  :cuisine_type: French
+  :restaurant_url: http://www.kikisbistro.com
+  :phone: (312) 335-5454
+  :yelp_id: dBCnnnq5cPknPZK0JOTAXg
+  :address_1: 900 N Franklin St
+  :address_2: (between Locust St & Walton St)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60610"
+  :neighborhood: Near North Side
+  :latitude: "41.899341"
+  :longitude: "-87.636067"
+- :name: Kuma's Corner
+  :cuisine_type: Pubs
+  :restaurant_url: http://www.kumascorner.com
+  :phone: (773) 604-8769
+  :yelp_id: pVPyt3TugMd8FW5LGznkQQ
+  :address_1: 2900 W Belmont Ave
+  :address_2: (between Francisco Ave & Richmond St)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60618"
+  :neighborhood: Avondale
+  :latitude: "41.939382"
+  :longitude: "-87.700297"
+- :name: L2O
+  :cuisine_type: Seafood
+  :restaurant_url: http://www.l2orestaurant.com
+  :phone: (773) 868-0002
+  :yelp_id: Wt12Wr1bLFBy-QWxUQBrIA
+  :address_1: 2300 N Lincoln Park W
+  :address_2: 
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60614"
+  :neighborhood: Lincoln Park
+  :latitude: "41.924095"
+  :longitude: "-87.636957"
+- :name: La Cantina
+  :cuisine_type: Italian
+  :restaurant_url: http://www.lacantina-chicago.com
+  :phone: (312) 332-7005
+  :yelp_id: vEr2Zi-dkDbpI0OzNemTew
+  :address_1: 71 W Monroe St
+  :address_2: (between Michigan Ave & Wabash Ave)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60603"
+  :neighborhood: The Loop
+  :latitude: "41.8805999756"
+  :longitude: "-87.6299972534"
+- :name: La Sardine
+  :cuisine_type: French
+  :restaurant_url: http://lasardine.com/
+  :phone: (312) 421-2800
+  :yelp_id: -3UhToDI8YYrvkIRD8tySg
+  :address_1: 111 N Carpenter St
+  :address_2: (between Washington Blvd & Randolph St)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60607"
+  :neighborhood: West Loop, Near West Side
+  :latitude: "41.8833414"
+  :longitude: "-87.653219"
+- :name: Lao Beijing
+  :cuisine_type: Chinese
+  :restaurant_url: http://www.tonygourmetgroup.com/
+  :phone: (312) 881-0168
+  :yelp_id: ufyUTxSUQKniZ9FmKnlhWg
+  :address_1: 2138 S Archer Ave
+  :address_2: (between Wentworth Ave & 21st St)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60616"
+  :neighborhood: Chinatown
+  :latitude: "41.853901"
+  :longitude: "-87.633656"
+- :name: Lao Sze Chuan
+  :cuisine_type: Chinese
+  :restaurant_url: 
+  :phone: (312) 326-5040
+  :yelp_id: yBRaSkuYwFhYEoucDyD0lA
+  :address_1: 2172 S Archer Ave
+  :address_2: (between Wentworth Ave & 21st St)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60616"
+  :neighborhood: Chinatown
+  :latitude: "41.853333"
+  :longitude: "-87.635079"
+- :name: Le Bouchon
+  :cuisine_type: French
+  :restaurant_url: http://www.lebouchonofchicago.com
+  :phone: (773) 862-6600
+  :yelp_id: gAp38M1cLRkFHbemMhaNAQ
+  :address_1: 1958 N Damen Ave
+  :address_2: (between Armitage Ave & Homer St)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60647"
+  :neighborhood: Bucktown
+  :latitude: "41.917212"
+  :longitude: "-87.677589"
+- :name: Le Colonial
+  :cuisine_type: Vietnamese
+  :restaurant_url: http://www.lecolonialchicago.com
+  :phone: (312) 255-0088
+  :yelp_id: 5OtAmmypXvuTbkFBCziF_Q
+  :address_1: 937 N Rush St
+  :address_2: (between Walton St & Oak St)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60611"
+  :neighborhood: Near North Side
+  :latitude: "41.9002343"
+  :longitude: "-87.6270572"
+- :name: Les Nomades
+  :cuisine_type: French
+  :restaurant_url: http://www.lesnomades.net
+  :phone: (312) 649-9010
+  :yelp_id: L-JFa3cZEP8nEaC0tak_SA
+  :address_1: 222 E Ontario St
+  :address_2: (between Fairbanks Ct & Mc Clurg Ct)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60611"
+  :neighborhood: Near North Side, River East
+  :latitude: "41.8931999207"
+  :longitude: "-87.6222000122"
+- :name: Longman & Eagle
+  :cuisine_type: Gastropubs
+  :restaurant_url: http://www.longmanandeagle.com
+  :phone: (773) 276-7110
+  :yelp_id: m5_GCJP2W4zEJnyVgxa3eA
+  :address_1: 2657 N Kedzie Ave
+  :address_2: (between Milwaukee Ave & Schubert Ave)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60647"
+  :neighborhood: Logan Square
+  :latitude: "41.930072"
+  :longitude: "-87.707025"
+- :name: Lou Malnati's Pizzeria
+  :cuisine_type: Pizza
+  :restaurant_url: http://www.loumalnatis.com/Locations/Details.aspx%3FID%3D5
+  :phone: (773) 762-0808
+  :yelp_id: QMVY05W0TPVbUEDW2PbHgg
+  :address_1: 3859 W Ogden Ave
+  :address_2: 
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60623"
+  :neighborhood: Lawndale
+  :latitude: "41.851600647"
+  :longitude: "-87.7220993042"
+- :name: Lou Malnati's Pizzeria
+  :cuisine_type: Pizza
+  :restaurant_url: http://www.loumalnatis.com
+  :phone: (312) 828-9800
+  :yelp_id: 8vFJH_paXsMocmEO_KAa3w
+  :address_1: 439 N Wells St
+  :address_2: 
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60654"
+  :neighborhood: Near North Side, River North
+  :latitude: "41.8903604"
+  :longitude: "-87.6340233"
+- :name: Lou Malnati's Pizzeria
+  :cuisine_type: Pizza
+  :restaurant_url: http://www.loumalnatis.com
+  :phone: (773) 832-4030
+  :yelp_id: u5rIwydmTiuhaa8DN91-dw
+  :address_1: 958 W Wrightwood Ave
+  :address_2: (between Lincoln Ave & Sheffield Ave)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60614"
+  :neighborhood: Lincoln Park, DePaul
+  :latitude: "41.9291000366"
+  :longitude: "-87.6536026001"
+- :name: Lou Malnati's Pizzeria
+  :cuisine_type: Pizza
+  :restaurant_url: http://www.loumalnatis.com
+  :phone: (773) 395-2400
+  :yelp_id: 84r_TaEPqE1bnYFLqYdOtQ
+  :address_1: 1520 N Damen Ave
+  :address_2: (between Pierce Ave & Wicker Park Ave)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60622"
+  :neighborhood: Wicker Park
+  :latitude: "41.909156"
+  :longitude: "-87.677404"
+- :name: Lou Mitchell's Restaurant & Bakery
+  :cuisine_type: Breakfast & Brunch
+  :restaurant_url: http://www.loumitchellsrestaurant.com
+  :phone: (312) 939-3111
+  :yelp_id: n99qEoKGGdFG6p_rHzK_Cw
+  :address_1: 565 W Jackson Blvd
+  :address_2: (between Clinton St & Jefferson St)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60661"
+  :neighborhood: Near West Side
+  :latitude: "41.8778991699"
+  :longitude: "-87.6417999268"
+- :name: "Lula Caf\xC3\xA9"
+  :cuisine_type: American (New)
+  :restaurant_url: http://www.lulacafe.com
+  :phone: (773) 489-9554
+  :yelp_id: 4i1Ny2zIE1VJSU9gLMkHqg
+  :address_1: 2537 N Kedzie Blvd
+  :address_2: (between Altgeld St & Albany Ave)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60647"
+  :neighborhood: Logan Square
+  :latitude: "41.9270923"
+  :longitude: "-87.7072424"
+- :name: M Henry
+  :cuisine_type: Breakfast & Brunch
+  :restaurant_url: http://mhenry.net/
+  :phone: (773) 561-1600
+  :yelp_id: nd1KFxtZHXIMLqPtgubLpQ
+  :address_1: 5707 N Clark St
+  :address_2: (between Hollywood Ave & Edgewater Ave)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60660"
+  :neighborhood: Edgewater, Andersonville
+  :latitude: "41.9856054"
+  :longitude: "-87.6691231"
+- :name: Manny's Coffee Shop & Deli
+  :cuisine_type: Delis
+  :restaurant_url: http://www.mannysdeli.com
+  :phone: (312) 939-2855
+  :yelp_id: 5n86ysWVnN9SUA-VUVctrQ
+  :address_1: 1141 S Jefferson St
+  :address_2: 
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60607"
+  :neighborhood: University Village
+  :latitude: "41.867981"
+  :longitude: "-87.642224"
+- :name: Mirabell Restaurant & Lounge
+  :cuisine_type: German
+  :restaurant_url: http://www.mirabellrestaurant.com
+  :phone: (773) 463-1962
+  :yelp_id: iv4v0cCPTMHrwSOtW12oEw
+  :address_1: 3454 W Addison St
+  :address_2: (between Bernard St & St Louis Ave)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60618"
+  :neighborhood: Irving Park
+  :latitude: "41.94669"
+  :longitude: "-87.714761"
+- :name: MK Restaurant
+  :cuisine_type: American (New)
+  :restaurant_url: http://www.mkchicago.com
+  :phone: (312) 482-9179
+  :yelp_id: b7hhRTWDllSOxj18tIb_QA
+  :address_1: 868 N Franklin St
+  :address_2: (between Chestnut St & Locust St)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60610"
+  :neighborhood: Near North Side
+  :latitude: "41.898491"
+  :longitude: "-87.635738"
+- :name: Mon Ami Gabi
+  :cuisine_type: French
+  :restaurant_url: http://www.monamigabi.com
+  :phone: (773) 348-8886
+  :yelp_id: H3KB1EigcCQU9sbQCi-6kg
+  :address_1: 2300 N Lincoln Park West
+  :address_2: 
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60614"
+  :neighborhood: Lincoln Park
+  :latitude: "41.924105"
+  :longitude: "-87.636738"
+- :name: Mr Beef
+  :cuisine_type: Fast Food
+  :restaurant_url: 
+  :phone: (773) 283-7444
+  :yelp_id: kKhMM4ONgH-eO4j9653iSw
+  :address_1: 3917 N Harlem Ave
+  :address_2: 
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60634"
+  :neighborhood: Dunning
+  :latitude: "41.9513015747"
+  :longitude: "-87.8072967529"
+- :name: Naha
+  :cuisine_type: American (New)
+  :restaurant_url: http://www.naha-chicago.com
+  :phone: (312) 321-6242
+  :yelp_id: s7iq5dP-iLdivNGKr2wTJA
+  :address_1: 500 N Clark St
+  :address_2: (between Grand Ave & Illinois St)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60610"
+  :neighborhood: Near North Side
+  :latitude: "41.890836"
+  :longitude: "-87.631095"
+- :name: North Pond
+  :cuisine_type: American (New)
+  :restaurant_url: http://www.northpondrestaurant.com
+  :phone: (773) 477-5845
+  :yelp_id: C9zXJ484qD6K8o0ISOQI7w
+  :address_1: 2610 N Cannon Dr
+  :address_2: 
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60657"
+  :neighborhood: Lincoln Park
+  :latitude: "41.92996"
+  :longitude: "-87.636276"
+- :name: one sixtyblue
+  :cuisine_type: American (New)
+  :restaurant_url: http://www.onesixtyblue.com
+  :phone: (312) 850-0303
+  :yelp_id: ikTjzjFveUfOMpfKpH2EKg
+  :address_1: 1400 W Randolph
+  :address_2: 
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60607"
+  :neighborhood: West Loop, Near West Side
+  :latitude: "41.884764"
+  :longitude: "-87.662538"
+- :name: Gino's East
+  :cuisine_type: Pizza
+  :restaurant_url: http://www.ginoseast.com
+  :phone: (312) 943-1124
+  :yelp_id: bMqbd8moookHd7hWaV3qzg
+  :address_1: 633 N Wells St
+  :address_2: 
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60654"
+  :neighborhood: Near North Side, River North
+  :latitude: "41.8934266"
+  :longitude: "-87.6339422"
+- :name: Gino's East
+  :cuisine_type: Pizza
+  :restaurant_url: http://www.ginoseast.com
+  :phone: (312) 266-3337
+  :yelp_id: ibreTMGGaQSanZttUchjKg
+  :address_1: 162 E Superior St
+  :address_2: (between Michigan Ave & St Clair St)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60611"
+  :neighborhood: Near North Side, River East
+  :latitude: "41.895738"
+  :longitude: "-87.623524"
+- :name: Gino's East
+  :cuisine_type: Pizza
+  :restaurant_url: http://www.ginoseast.com
+  :phone: (773) 444-2244
+  :yelp_id: przV0QHF6RP0a9kwbw7E-g
+  :address_1: 8725 W Higgins Road
+  :address_2: 
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60686"
+  :neighborhood: 
+  :latitude: "41.987545"
+  :longitude: "-87.84465"
+- :name: Gino's East
+  :cuisine_type: Pizza
+  :restaurant_url: http://www.ginoseast.com/
+  :phone: (773) 327-3737
+  :yelp_id: 5p60V_t5ly_eN56i6hxHrg
+  :address_1: 2801 N Lincoln Ave
+  :address_2: (between Diversey Pky & George St)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60657"
+  :neighborhood: Lakeview
+  :latitude: "41.9327011108"
+  :longitude: "-87.658996582"
+- :name: Pegasus Restaurant & Taverna
+  :cuisine_type: Greek
+  :restaurant_url: http://www.pegasuschicago.com
+  :phone: (312) 226-3377
+  :yelp_id: 2RlmY0d-1WqVA2dbhy4qtA
+  :address_1: 130 S Halsted St
+  :address_2: (between Monroe St & Court Pl)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60661"
+  :neighborhood: Near West Side, West Loop, Greektown
+  :latitude: "41.8794704"
+  :longitude: "-87.6474199"
+- :name: Perennial
+  :cuisine_type: American (New)
+  :restaurant_url: http://www.perennialchicago.com
+  :phone: (312) 981-7070
+  :yelp_id: GbgdptnY_4ZC-SE73QblLA
+  :address_1: 1800 N Lincoln Ave
+  :address_2: 
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60686"
+  :neighborhood: Lincoln Park
+  :latitude: "41.915232"
+  :longitude: "-87.634467"
+- :name: The Publican
+  :cuisine_type: Pubs
+  :restaurant_url: http://thepublicanrestaurant.com/
+  :phone: (312) 733-9555
+  :yelp_id: LMaoM2Ue2BR_HI9ba3JsZg
+  :address_1: 837 W Fulton Market
+  :address_2: 
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60607"
+  :neighborhood: Near West Side, West Loop, Fulton Market
+  :latitude: "41.88655"
+  :longitude: "-87.649241"
+- :name: The Purple Pig
+  :cuisine_type: Modern European
+  :restaurant_url: http://thepurplepigchicago.com/
+  :phone: (312) 464-1744
+  :yelp_id: boE4Ahsssqic7o5wQLI04w
+  :address_1: 500 N Michigan Ave
+  :address_2: (between Illinois St & Grand Ave)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60611"
+  :neighborhood: Near North Side
+  :latitude: "41.8911047"
+  :longitude: "-87.6244836"
+- :name: Quartino
+  :cuisine_type: Tapas Bars
+  :restaurant_url: http://www.quartinochicago.com/
+  :phone: (312) 698-5000
+  :yelp_id: ziIfrqtyupmeNlPAOx6jTw
+  :address_1: 626 N State St
+  :address_2: 
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60614"
+  :neighborhood: Near North Side
+  :latitude: "41.8934332"
+  :longitude: "-87.6283246"
+- :name: Reza's Restaurant
+  :cuisine_type: Middle Eastern
+  :restaurant_url: http://www.rezasrestaurant.com
+  :phone: (312) 664-4500
+  :yelp_id: ePZLxJ-H32Y_Rhv5NKUZsg
+  :address_1: 432 W Ontario St
+  :address_2: (between Kingsbury St & Orleans St)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60610"
+  :neighborhood: Near North Side, River North
+  :latitude: "41.893122"
+  :longitude: "-87.639307"
+- :name: Reza's Restaurant
+  :cuisine_type: Middle Eastern
+  :restaurant_url: http://www.rezasrestaurant.com
+  :phone: (773) 561-1898
+  :yelp_id: M_mqBbgxyHbj49qo5XlGxw
+  :address_1: 5255 N Clark St
+  :address_2: (between Berwyn Ave & Farragut Ave)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60640"
+  :neighborhood: Edgewater, Andersonville
+  :latitude: "41.977746"
+  :longitude: "-87.668294"
+- :name: Rosebud On Rush
+  :cuisine_type: Italian
+  :restaurant_url: http://www.rosebudrestaurants.com/rest3.php
+  :phone: (312) 266-6444
+  :yelp_id: Q3SMNxfKtVhEwt4d7S_8vw
+  :address_1: 720 N Rush St
+  :address_2: (between Huron St & Superior St)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60611"
+  :neighborhood: Near North Side
+  :latitude: "41.895568"
+  :longitude: "-87.625767"
+- :name: Rosebud Prime
+  :cuisine_type: Steakhouses
+  :restaurant_url: 
+  :phone: (312) 384-1900
+  :yelp_id: i2LY-w3dNW5Zzcm4w6XHPQ
+  :address_1: 1 S Dearborn
+  :address_2: (between Madison St & Monroe St)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60605"
+  :neighborhood: The Loop
+  :latitude: "41.881969"
+  :longitude: "-87.629393"
+- :name: Rosebud Steakhouse
+  :cuisine_type: Steakhouses
+  :restaurant_url: http://www.rosebudrestaurants.com
+  :phone: (312) 397-1000
+  :yelp_id: 5zrksL0drFQBc8_zByiq_g
+  :address_1: 192 E Walton Pl
+  :address_2: (between Dewitt Pl & Michigan Ave)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60611"
+  :neighborhood: Streeterville, Near North Side
+  :latitude: "41.900031"
+  :longitude: "-87.622125"
+- :name: Rosebud Trattoria
+  :cuisine_type: Italian
+  :restaurant_url: http://rosebudrestaurants.com/rest9.php
+  :phone: (312) 832-7700
+  :yelp_id: N_bmLbOgyJ2cXqgnEfaQHQ
+  :address_1: 445 N Dearborn
+  :address_2: 
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60654"
+  :neighborhood: Near North Side
+  :latitude: "41.8905994"
+  :longitude: "-87.6295998"
+- :name: The Rosebud
+  :cuisine_type: Italian
+  :restaurant_url: http://rosebudrestaurants.com
+  :phone: (312) 942-1117
+  :yelp_id: I8W5EBWP5ajd1tk8IwhRfg
+  :address_1: 1500 W Taylor St
+  :address_2: (between Ashland Ave & Laflin St)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60607"
+  :neighborhood: University Village
+  :latitude: "41.869529"
+  :longitude: "-87.664294"
+- :name: Rosebud Theater District
+  :cuisine_type: Italian
+  :restaurant_url: http://rosebudrestaurants.com/rest6.php
+  :phone: (312) 332-9500
+  :yelp_id: nLV7GQhmAKreEZypE7uIxg
+  :address_1: 70 W Madison St
+  :address_2: (between Garland Ct & Michigan Ave)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60602"
+  :neighborhood: The Loop
+  :latitude: "41.882151"
+  :longitude: "-87.630129"
+- :name: Sabatino's Restaurant & Lounge
+  :cuisine_type: Italian
+  :restaurant_url: http://www.sabatinoschicago.com
+  :phone: (773) 283-8331
+  :yelp_id: 0-rkPnrTODt_veJ_nMVT_w
+  :address_1: 4441 W Irving Park Rd
+  :address_2: (between Kenneth Ave & Kostner Ave)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60641"
+  :neighborhood: Irving Park
+  :latitude: "41.9533004761"
+  :longitude: "-87.739402771"
+- :name: "Salpic\xC3\xB3n"
+  :cuisine_type: Mexican
+  :restaurant_url: http://www.salpicon.com
+  :phone: (312) 988-7811
+  :yelp_id: mabJ6czekvJE3xbIjjdciA
+  :address_1: 1252 N Wells St
+  :address_2: (between Goethe St & Scott St)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60610"
+  :neighborhood: Near North Side, Old Town
+  :latitude: "41.9051017761"
+  :longitude: "-87.6343994141"
+- :name: Santorini
+  :cuisine_type: Greek
+  :restaurant_url: http://www.santorinichicago.com
+  :phone: (312) 829-8820
+  :yelp_id: 4vgVXg3_2YdkyYpZJ0s7wA
+  :address_1: 800 W Adams St
+  :address_2: (between Green St & Halsted St)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60607"
+  :neighborhood: Near West Side, West Loop, Greektown
+  :latitude: "41.8792991638"
+  :longitude: "-87.6476974487"
+- :name: Sepia
+  :cuisine_type: American (New)
+  :restaurant_url: http://www.sepiachicago.com
+  :phone: (312) 441-1920
+  :yelp_id: mPFMi734NXkvLFotygLrCA
+  :address_1: 123 N Jefferson St
+  :address_2: (between Washington & Randolph)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60661"
+  :neighborhood: Near West Side
+  :latitude: "41.883797"
+  :longitude: "-87.64228"
+- :name: Shaw's Crab House
+  :cuisine_type: Seafood
+  :restaurant_url: http://www.shawscrabhouse.com
+  :phone: (312) 527-2722
+  :yelp_id: dKcO9OQ44RPRlkWe-vToFA
+  :address_1: 21 E Hubbard St
+  :address_2: (between State St & Wabash Ave)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60611"
+  :neighborhood: Near North Side
+  :latitude: "41.8900985718"
+  :longitude: "-87.6279983521"
+- :name: Smoque BBQ
+  :cuisine_type: Barbeque
+  :restaurant_url: http://www.smoquebbq.com
+  :phone: (773) 545-7427
+  :yelp_id: LPwAwxEjetjdNh7Uadro3g
+  :address_1: 3800 N Pulaski Rd
+  :address_2: (between Avondale Ave & Grace St)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60641"
+  :neighborhood: Irving Park
+  :latitude: "41.950133"
+  :longitude: "-87.727815"
+- :name: sola
+  :cuisine_type: American (New)
+  :restaurant_url: http://www.sola-restaurant.com
+  :phone: (773) 327-3868
+  :yelp_id: op4gyXyKSJ5CXgtgP2aewg
+  :address_1: 3868 N Lincoln Ave
+  :address_2: (between Berenice Ave & Byron St)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60613"
+  :neighborhood: North Center
+  :latitude: "41.952198"
+  :longitude: "-87.677572"
+- :name: Spiaggia
+  :cuisine_type: Italian
+  :restaurant_url: http://www.spiaggiarestaurant.com
+  :phone: (312) 280-2750
+  :yelp_id: mnvQFi_uwBKgBjrIyRQ6YQ
+  :address_1: 980 N Michigan Ave
+  :address_2: (between Oak St & United States Highway 41)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60611"
+  :neighborhood: Magnificent Mile, Near North Side
+  :latitude: "41.900636"
+  :longitude: "-87.624245"
+- :name: Szalas Restaurant
+  :cuisine_type: Polish
+  :restaurant_url: http://www.szalasrestaurant.com
+  :phone: (773) 582-0300
+  :yelp_id: S3QySpOfrovSMj2pOBJqqQ
+  :address_1: 5214 S Archer Ave
+  :address_2: (between Kenneth Ave & Kilbourn Ave)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60632"
+  :neighborhood: Archer Heights
+  :latitude: "41.7999000549"
+  :longitude: "-87.7350997925"
+- :name: Table Fifty-Two
+  :cuisine_type: American (New)
+  :restaurant_url: http://www.tablefifty-two.com
+  :phone: (312) 573-4000
+  :yelp_id: LjKBYqO2RQGaxVLO4DPl3w
+  :address_1: 52 W Elm St
+  :address_2: (between Dearborn St & Clark St)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60610"
+  :neighborhood: Near North Side
+  :latitude: "41.903233"
+  :longitude: "-87.630622"
+- :name: Topolobampo
+  :cuisine_type: Mexican
+  :restaurant_url: http://www.rickbayless.com/restaurants/topolobampo.html
+  :phone: (312) 661-1434
+  :yelp_id: UsuuTuxeqeiUXSgOMnJJKg
+  :address_1: 445 N Clark St
+  :address_2: 
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60654"
+  :neighborhood: Near North Side
+  :latitude: "41.8904773"
+  :longitude: "-87.6309234"
+- :name: Tru
+  :cuisine_type: American (New)
+  :restaurant_url: http://www.TRUrestaurant.com
+  :phone: (312) 202-0001
+  :yelp_id: AkfSndWBxnTn-LpmiL8aLA
+  :address_1: 676 N St. Clair St
+  :address_2: (between Erie St & Huron St)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60611"
+  :neighborhood: Near North Side, River East
+  :latitude: "41.894522"
+  :longitude: "-87.622937"
+- :name: Twin Anchors Restaurant & Tavern
+  :cuisine_type: American (Traditional)
+  :restaurant_url: http://www.twinanchorsribs.com/
+  :phone: (312) 266-1616
+  :yelp_id: cuGkFLdPWfFX9hm2bcBHkQ
+  :address_1: 1655 N Sedgwick Street
+  :address_2: (between Concord Pl & Eugenie St)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60614"
+  :neighborhood: Lincoln Park
+  :latitude: "41.912306"
+  :longitude: "-87.638648"
+- :name: Urban Belly
+  :cuisine_type: Asian Fusion
+  :restaurant_url: http://www.urbanbellychicago.com
+  :phone: (773) 583-0500
+  :yelp_id: 7N8iW1oimF5hqXdiKOccew
+  :address_1: 3053 N California Ave
+  :address_2: (between Barry Ave & Nelson St)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60618"
+  :neighborhood: Avondale
+  :latitude: "41.937151"
+  :longitude: "-87.69774"
+- :name: The Italian Village Restaurants
+  :cuisine_type: Nightlife
+  :restaurant_url: http://www.italianvillage-chicago.com/
+  :phone: (312) 332-7005
+  :yelp_id: 4hEWyzVZ4gKdAoBpsd7Rrw
+  :address_1: 71 W Monroe St
+  :address_2: (between Michigan Ave & Wabash Ave)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60603"
+  :neighborhood: The Loop
+  :latitude: "41.8805999756"
+  :longitude: "-87.6299972534"
+- :name: Vivere
+  :cuisine_type: Italian
+  :restaurant_url: http://vivere-chicago.com/
+  :phone: (312) 332-4040
+  :yelp_id: 7a9BG-eTJahBhyhqKqba5w
+  :address_1: 71 W Monroe St
+  :address_2: (between Michigan Ave & Wabash Ave)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60603"
+  :neighborhood: The Loop
+  :latitude: "41.8805999756"
+  :longitude: "-87.6299972534"
+- :name: Webster's Wine Bar
+  :cuisine_type: Wine Bars
+  :restaurant_url: http://www.websterwinebar.com/
+  :phone: (773) 868-0608
+  :yelp_id: 4rqE7LqLYOdU6a_WYErJKw
+  :address_1: 1480 W Webster Ave
+  :address_2: (between Clybourn Ave & Dominick St)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60614"
+  :neighborhood: DePaul
+  :latitude: "41.9216003418"
+  :longitude: "-87.6657028198"
+- :name: West Town Tavern
+  :cuisine_type: American (New)
+  :restaurant_url: http://www.westtowntavern.com/
+  :phone: (312) 666-6175
+  :yelp_id: xlSi1ivIRpLMkNaczl_Ttg
+  :address_1: 1329 W Chicago Ave
+  :address_2: 
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60642"
+  :neighborhood: Noble Square
+  :latitude: "41.895988"
+  :longitude: "-87.660567"
+- :name: Wildfire
+  :cuisine_type: American (Traditional)
+  :restaurant_url: http://www.wildfirerestaurant.com/chicago
+  :phone: (312) 787-9000
+  :yelp_id: CQ75CQSyrsmb-S3UAwCHpw
+  :address_1: 159 W Erie St
+  :address_2: 
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60654"
+  :neighborhood: Near North Side, River North
+  :latitude: "41.8939704"
+  :longitude: "-87.6333129"
+- :name: Wishbone
+  :cuisine_type: Breakfast & Brunch
+  :restaurant_url: http://www.wishbonechicago.com
+  :phone: (312) 850-2663
+  :yelp_id: b5wtToIhvTgx7O-B7jSTfA
+  :address_1: 1001 W Washington Blvd
+  :address_2: (between Carpenter St & Morgan St)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60607"
+  :neighborhood: West Loop, Near West Side
+  :latitude: "41.8830455149"
+  :longitude: "-87.6521015167"
+- :name: Wishbone
+  :cuisine_type: Southern
+  :restaurant_url: http://www.wishbonechicago.com
+  :phone: (773) 549-2663
+  :yelp_id: RYw_no9ohtCg09aKorVffg
+  :address_1: 3300 N Lincoln Ave
+  :address_2: (between Marshfield Ave & School St)
+  :city_town: Chicago
+  :state_province: IL
+  :postal_code: "60657"
+  :neighborhood: Lakeview
+  :latitude: "41.94182"
+  :longitude: "-87.67014"

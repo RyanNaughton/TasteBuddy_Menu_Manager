@@ -1,0 +1,73 @@
+%p#notice= notice
+
+%p
+  %b Name:
+  = @menu_item.name
+%p
+  %b Description:
+  = @menu_item.description
+%p
+  %b Prices:
+  = @menu_item.prices
+
+%section{:class => 'rating'}
+  %p
+    Average rating:
+    %span#average_rating= format_rating(@average_rating)
+    out of 5
+  - if can? :rate, @menu_item
+    = image_tag 'rate_me.gif'
+    = form_tag(rate_menu_item_url(@menu_item), :method => 'put', :remote => true) do
+      = label("value_1", content_tag(:span, '1'), {:class=>"rating", :id=>"1"})
+      = radio_button_tag("rating[value]", 1, @user_rating == 1, :class => 'rating_button')
+      = label("value_2", content_tag(:span, '2'), {:class=>"rating", :id=>"2"})
+      = radio_button_tag("rating[value]", 2, @user_rating == 2, :class => 'rating_button')
+      = label("value_3", content_tag(:span, '3'), {:class=>"rating", :id=>"3"})
+      = radio_button_tag("rating[value]", 3, @user_rating == 3, :class => 'rating_button')
+      = label("value_4", content_tag(:span, '4'), {:class=>"rating", :id=>"4"})
+      = radio_button_tag("rating[value]", 4, @user_rating == 4, :class => 'rating_button')
+      = label("value_5", content_tag(:span, '5'), {:class=>"rating", :id=>"5"})
+      = radio_button_tag("rating[value]", 5, @user_rating == 5, :class => 'rating_button')
+      = submit_tag 'Post'
+:javascript
+  // Sets up the stars to match the data when the page is loaded.
+  $(function () {
+      var checkedId = $('input:checked').attr('id');
+      $('form > label[for=' + checkedId + ']').prevAll().andSelf().addClass('bright');
+  });
+
+  $(document).ready(function() {
+      // Makes stars glow on hover.
+      $('form > label').hover(
+          function() {    // mouseover
+              $(this).prevAll().andSelf().addClass('glow');
+          },function() {  // mouseout
+              $(this).siblings().andSelf().removeClass('glow');
+      });
+
+      // Makes stars stay glowing after click.
+      $('form > label').click(function() {
+          $(this).siblings().removeClass("bright");
+          $(this).prevAll().andSelf().addClass("bright");
+      });
+
+      // Submits the form (saves data) after user makes a change.
+      $('form').change(function() {
+        var data = $('input:checked').closest("form").serialize();
+        var url = $('input:checked').closest("form").attr("action");
+        $.ajax({
+           type: "PUT",
+           dataType: "json",
+           processData: false,
+           url: url,
+           data: data,
+           success: function (resp) {
+             $('#average_rating').html(eval(resp).average_rating);
+           }
+         });
+      });
+  });
+
+= link_to 'Edit', edit_menu_item_path(@menu_item)
+\|
+= link_to 'Back', menu_items_path
